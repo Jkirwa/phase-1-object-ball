@@ -1,5 +1,5 @@
 console.log('Advanced debugging example running.')
-debugger
+//debugger
 
 // first, define the function.
 function goodPractices() {
@@ -18,7 +18,7 @@ function goodPractices() {
       // when will the following line of code work and when will it break?
       let data = teamObj.player
       for (let key in data) {
-        debugger
+        //debugger
       }
     }
   }
